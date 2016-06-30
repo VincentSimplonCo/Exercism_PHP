@@ -25,21 +25,3 @@ function isPangram($string){
 isPangram("Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich");
 
 ?>
-
-
-
-<?php
-// $i = 0;
-// do {
-//   if(stristr($stringLower, $alphabet[$i]){
-//     echo "<br>".$alphabet[$i]." trouve! </br>";
-//   }
-//   else {
-//     echo "Cette phrase n'est pas un pangram";
-//     break;
-//   }
-//   $i++;
-// } while ($i < count($alphabet));
-
-
- ?>
